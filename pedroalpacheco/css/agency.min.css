@@ -7,13 +7,13 @@ p{
     line-height:1.75
 }
 a{
-    color:#fed136
+    color:#2193b0
 }
 a:hover{
-    color:#fec503
+    color:#2193b0
 }
 .text-primary{
-    color:#fed136!important
+    color:#2193b0!important
 }
 h1,h2,h3,h4,h5,h6{
     font-weight:700;
@@ -49,8 +49,8 @@ section h3.section-subheading{
     padding:20px 40px
 }
 .btn-primary{
-    background-color:#fed136;
-    border-color:#fed136
+    background-color:#2193b0;
+    border-color:#2193b0
 }
 .btn-primary:active,.btn-primary:focus,.btn-primary:hover{
     background-color:#fec810!important;
@@ -62,11 +62,11 @@ section h3.section-subheading{
     box-shadow:0 0 0 .2rem rgba(254,209,55,.5)!important
 }
 ::-moz-selection{
-    background:#fed136;
+    background:#2193b0;
     text-shadow:none
 }
 ::selection{
-    background:#fed136;
+    background:#2193b0;
     text-shadow:none
 }
 img::-moz-selection{
@@ -88,11 +88,11 @@ img::-moz-selection{
     text-transform:uppercase;
     color:#fff;
     border:0;
-    background-color:#fed136;
+    background-color:#2193b0;
     font-family:Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'
 }
 #mainNav .navbar-brand{
-    color:#fed136;
+    color:#2193b0;
     font-family:'Kaushan Script',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'
 }
 #mainNav .navbar-brand.active,#mainNav .navbar-brand:active,#mainNav .navbar-brand:focus,#mainNav .navbar-brand:hover{
@@ -107,7 +107,7 @@ img::-moz-selection{
     font-family:Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'
 }
 #mainNav .navbar-nav .nav-item .nav-link.active,#mainNav .navbar-nav .nav-item .nav-link:hover{
-    color:#fed136
+    color:#2193b0
 }
 @media (min-width:992px){
     #mainNav{
@@ -371,7 +371,7 @@ header.masthead .intro-text .intro-heading{
     color:#fff;
     border:7px solid #e9ecef;
     border-radius:100%;
-    background-color:#fed136
+    background-color:#2193b0
 }
 .timeline>li .timeline-image h4{
     font-size:10px;
@@ -518,7 +518,7 @@ section#contact .form-group textarea.form-control{
     height:248px
 }
 section#contact .form-control:focus{
-    border-color:#fed136;
+    border-color:#2193b0;
     -webkit-box-shadow:none;
     box-shadow:none
 }
@@ -576,5 +576,5 @@ ul.social-buttons li a{
     background-color:#212529
 }
 ul.social-buttons li a:active,ul.social-buttons li a:focus,ul.social-buttons li a:hover{
-    background-color:#fed136
+    background-color:#2193b0
 }
