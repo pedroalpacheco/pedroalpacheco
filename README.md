@@ -1,11 +1,11 @@
 # Pedro Pacheco - CWA
 Comunidade Web Automation
 
-<!--div align="center">
+<div align="center">
   <a href="https://github.com/pedroalpacheco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroalpacheco&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroalpacheco&layout=compact&langs_count=7&theme=discord_old_blurple"/>
-</div-->
+</div>
   <div style="display: inline_block"><br>
   <img align="center"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
